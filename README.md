@@ -1,5 +1,5 @@
-# <h1>💫 Hi 👋, I'm Prakash Raj S
-**A passionate python programmer** </h1><br/>
+# <h1><center>💫 Hi 👋, I'm Prakash Raj S </center></h1>
+**A passionate python programmer** <br/>
 [![](https://visitcount.itsvg.in/api?id=prakashRajs2709&icon=6&color=1)](https://visitcount.itsvg.in)<br/>
  🌱 I’m currently learning Django, Generative AI<br><br>💬 Ask me about python, deep learning, django<br><br>📫 Reach out to me at rajsp6037@gmail.com
 
