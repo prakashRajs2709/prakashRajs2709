@@ -1,5 +1,5 @@
 #                                                    💫 Hi 👋, I'm Prakash Raj S 
-**A passionate python programmer** <br/>
+<center>**A passionate python programmer** </center><br/>
 <br/><br/>
 [![](https://visitcount.itsvg.in/api?id=prakashRajs2709&icon=6&color=1)](https://visitcount.itsvg.in)<br/>
 <br/><br/>
