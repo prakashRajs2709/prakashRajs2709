@@ -2,11 +2,7 @@
 **A passionate python programmer** <br/>
 <br/><br/>
 [![](https://visitcount.itsvg.in/api?id=prakashRajs2709&icon=6&color=1)](https://visitcount.itsvg.in)<br/>
-<br/><br/>
-<img src='https://th.bing.com/th/id/OIP.Y7hzSIyW8KrGfCEoSOQFfgHaDt?w=320&h=175&c=7&r=0&o=5&dpr=1.5&pid=1.7' width=1500 height=400/><br/>
- 🌱 I’m currently learning Django, Generative AI<br><br>💬 Ask me about python, deep learning, django<br><br>
-
-
+<br/>
 
 
 # 💻 Languages and Frameworks:
